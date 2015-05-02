@@ -1,0 +1,2 @@
+# ijkmediaplayer
+AndroidStudio编译完成的ijkmediaplayer库
