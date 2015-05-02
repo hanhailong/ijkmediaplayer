@@ -1,0 +1,89 @@
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/obj/local/armeabi-v7a/objs/yuv_static/source/convert_to_i420.o: \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/source/convert_to_i420.cc \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/convert.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/basic_types.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/convert_from.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/rotate.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/planar_functions.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/convert_argb.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/format_conversion.h \
+ /Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/video_common.h
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+
+/Users/hailonghan/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/convert.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/basic_types.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/convert_from.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/rotate.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/planar_functions.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/convert_argb.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/format_conversion.h:
+
+/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/ijkmediaplayer/jni/ijkmedia/ijkyuv/include/libyuv/video_common.h:

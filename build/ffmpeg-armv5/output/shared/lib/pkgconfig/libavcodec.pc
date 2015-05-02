@@ -1,0 +1,14 @@
+prefix=/Users/hailonghan/ijkplayer/android/ijkplayer-android/android/build/ffmpeg-armv5/output/shared
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 56.13.100
+Requires: libavutil >= 54.15.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lijkffmpeg -lm -lz -pthread
+Libs.private: 
+Cflags: -I${includedir}
